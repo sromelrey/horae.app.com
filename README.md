@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ⏱️ Horae App
+Efficient and structured time-tracking application built with **Next.js**, **Tailwind CSS**, **Shadcn UI**.
 
-## Getting Started
+Horae App is a modular time-tracking and productivity application designed to streamline work hours, enforce overtime policies, and manage tasks effectively. Built with modern technologies, it offers a responsive and user-friendly interface for both desktop and mobile platforms.
 
-First, run the development server:
+## 🧭 Motivation
+The primary motivation behind Horae App is to establish a centralized system for tracking work hours and managing tasks. In past projects, handling time logs and overtime calculations manually led to inefficiencies and errors. By creating this application, the goal is to:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Enhance Efficiency**: Automate time-tracking processes to save time and reduce errors.
+- **Ensure Compliance**: Enforce company policies regarding work hours and overtime.
+- **Simplify Management**: Provide a clear overview of tasks and time logs for better decision-making.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Features
+- 📅  **Clock In/Out Functionality**: Record employee working hours with precision.
+- ⏱️ **Overtime Validation**: Enforce a 5-minute interval before allowing overtime clock-ins.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- 🗂️ **Task Management**: Organize tasks and track progress effectively.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
