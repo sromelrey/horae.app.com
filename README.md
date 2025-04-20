@@ -1,5 +1,5 @@
 # ⏱️ Horae App
-Efficient and structured time-tracking application built with **Next.js**, **Tailwind CSS**, **Shadcn UI**.
+Efficient and structured time-tracking application built with **Next.js**, **Tailwind CSS**, **Shadcn UI** and **harmonia**.
 
 Horae App is a modular time-tracking and productivity application designed to streamline work hours, enforce overtime policies, and manage tasks effectively. Built with modern technologies, it offers a responsive and user-friendly interface for both desktop and mobile platforms.
 
